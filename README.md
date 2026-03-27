@@ -1,4 +1,4 @@
-# AI Portfolio Chatbot - Ankit Bharti
+# AI Chatbot - Ankit Bharti
 
 A fully functional AI-powered portfolio assistant built from scratch and deployed
 on Vercel. Recruiters and hiring managers can ask any question about my background,
