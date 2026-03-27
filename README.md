@@ -7,6 +7,7 @@ Claude AI.
 
 Live at: https://ankitbharti-portfolio.vercel.app
 
+![Chatbot Preview](preview.png)
 ---
 
 ## What It Does
